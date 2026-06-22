@@ -1,0 +1,7 @@
+# Marketing Campaign Performance Dashboard
+
+## Live Dashboard
+👉 https://siddhi197.github.io/interactive-marketing-dashboard/
+
+## Project Overview
+Interactive executive dashboard analyzing campaign performance, customer segmentation, conversion funnels, and revenue trends.
